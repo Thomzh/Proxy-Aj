@@ -12,8 +12,8 @@ PostAPI|https://meta.vaccat.xyz
 PostAddress|/growtopia/server_data.php
 ProxyServer|195.62.48.50
 ProxyServerPort|1234
-discord|discord.gg/ajproxy
-discordme|`b[`9discord.gg/ajproxy``]``
+discord|HanzModeGalau
+discordme|`b[`9HanzModeGalau``]``
 GrowtopiaIP|213.179.209.175
 GrowtopiaPort|17043|17043|17043|17043|17043
 teamdav|DAVPLAY34
@@ -73,6 +73,6 @@ add_image_button|banner_input_/pay|interface/teampay_banner.rttex|bannerlayout||
 add_spacer|small
 add_smalltext|`9Creators: Joakim & Naade. Discord: `1Thomzh``|left|
 add_url_button||`9Join To The New Proxy `cDiscord Server|NOFLAGS|https://discord.gg/ajproxy|
-add_textbox|`2Enjoy `9the proxy made by `b[`9Thomzh``]``|left|2480|
+add_textbox|`2Enjoy `9the proxy made by `b[`9HanzModeGalau``]``|left|2480|
 add_spacer|small
 GazzetteEnd
