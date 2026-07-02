@@ -1,0 +1,62 @@
+# Binary files
+*.exe
+*.bin
+*.so
+*.dylib
+*.dll
+
+# Logs
+*.log
+log/
+logs/
+
+# Backup files
+*.backup
+*.bak
+*.tmp
+*.temp
+*.cache
+
+# Config backups
+file.backup*
+vars.backup*
+
+# System files
+.DS_Store
+Thumbs.db
+*.pid
+*.lock
+.git/
+.gitignore
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# User data
+data/
+userdata/
+*.db
+*.sqlite
+
+# Environment
+.env
+.env.local
+secrets.txt
+keys.txt
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Temporary
+temp/
+tmp/
+*.part
+download/
