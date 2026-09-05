@@ -1,3 +1,4 @@
+#!/bin/bash
 RED="\e[31m"
 GREEN="\e[32m"
 ENDCOLOR="\e[0m"
@@ -11,7 +12,7 @@ if [ -f "proxy" ]; then
     sleep 1
     echo -e "${GREEN}Getting proxy...${ENDCOLOR}"
 fi
-wget -q https://github.com/Thomzh/Proxy-Aj/raw/main/proxy
+wget -q https://github.com/JoakimTheCoder/AJTermux/raw/main/proxy
 sleep 1
 echo -e "${GREEN}AJProxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./proxy${ENDCOLOR}"
